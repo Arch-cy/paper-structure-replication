@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文结构迁移与原创初稿"
+  short_description: "拆解范文的框架与论证逻辑，形成可执行研究方案及有证据支撑的原创初稿"
+  default_prompt: "使用 $paper-structure-replication，依据我的课题、参考论文与已有材料，提炼适配结构并完成本次要求的研究方案或原创草稿。"
